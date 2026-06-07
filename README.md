@@ -30,5 +30,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tshambhavi06@gmail.com)
 
 ## 📊 GitHub Stats
-![Shambhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tshambhavi&show_icons=true)
+![Shambhavi's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tshambhavi&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tshambhavi&theme=tokyonight&hide_border=true)
