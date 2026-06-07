@@ -13,7 +13,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-📊 Also work with: Power BI | Translations Builder | DAX
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Translations Builder](https://img.shields.io/badge/Translations_Builder-0078D4?style=flat&logo=microsoft&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-FF6B35?style=flat&logo=microsoft&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 ☁️ Cloud: Azure | Currently learning Docker & Kubernetes
 
 ## 🌱 Currently Learning
@@ -26,4 +30,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tshambhavi06@gmail.com)
 
 ## 📊 GitHub Stats
-![Shambhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tshambhavi&show_icons=true&theme=radical)
+![Shambhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tshambhavi&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tshambhavi&theme=tokyonight&hide_border=true)
