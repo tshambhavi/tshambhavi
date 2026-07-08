@@ -31,4 +31,4 @@
 
 ## 📊 GitHub Stats
 ![Shambhavi's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tshambhavi&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tshambhavi&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tshambhavi&theme=github-dark)](https://git.io/streak-stats)
