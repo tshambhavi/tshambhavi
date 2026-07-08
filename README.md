@@ -1,6 +1,6 @@
 # Hi, I'm Shambhavi Tripathi 👋
 
-🔭 Associate Software Engineer at VITRANA (A Parexel Company)
+🔭 Software Engineer at VITRANA (A Parexel Company)
 💻 Backend Java Developer | 3+ years experience
 🌐 Domain: Pharmacovigilance & Medical Literature Systems
 
